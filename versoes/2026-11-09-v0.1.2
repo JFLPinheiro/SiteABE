@@ -1,0 +1,53 @@
+# Araújo Brasílio Equipamentos de Segurança
+## Versão 0.1.2 — 09/11/2026
+
+### Alterado
+- Arquivo js/config.js: inclusão do código do Brasil (55) no número de WhatsApp.
+- Número configurado: 5519989470259.
+- Mantido modoDemonstracao: true.
+
+### Motivo
+- O diagnóstico no navegador mostrou o número 19989470259, sem o código do Brasil.
+- A validação retornava false, mantendo o botão “Abrir WhatsApp” desativado.
+
+### Impacto
+- A configuração atualizada atende ao formato exigido pelo site.
+- Após carregar a configuração e revisar a mensagem do orçamento, o botão poderá ser habilitado.
+- A alteração não confirma pedido, não reserva estoque e não envia mensagens automaticamente.
+- Catálogo e demais funcionalidades permanecem inalterados.
+
+### Arquivos envolvidos
+- js/config.js
+- versoes/2026-11-09-v0.1.2.md
+- CHANGELOG.md: acrescentar o resumo desta atualização, preservando as entradas anteriores.
+
+### Como testar
+1. Salvar js/config.js na pasta js do site.
+2. Abrir o index.html da mesma pasta do projeto.
+3. Recarregar a página.
+4. Executar no Console: `window.SITE_CONFIG.whatsapp`.
+5. Confirmar o resultado: `"5519989470259"`.
+6. Adicionar um item ao orçamento.
+7. Clicar em “Revisar mensagem”.
+8. Verificar se “Abrir WhatsApp” está habilitado.
+9. Conferir o destinatário e o texto antes de enviar.
+
+### Status da validação
+- Número corrigido no arquivo de configuração enviado.
+- Funcionamento final no navegador ainda pendente de confirmação.
+
+### Publicação
+- Nenhuma publicação no GitHub ou na Hostinger foi realizada por esta atualização.
+- Salvar os arquivos alterados no repositório após os testes.
+
+### Reversão
+- Fazer backup de js/config.js antes da substituição.
+- Para reverter, restaurar a cópia anterior.
+- A restauração do número sem o código 55 fará a validação voltar a rejeitá-lo.
+
+### Pendências
+- Confirmar os dados comerciais antes da publicação definitiva.
+- Substituir produtos demonstrativos por produtos reais.
+- Manter o modo demonstrativo até concluir a revisão do site.
+
+Salve esta atualização no projeto e faça backup antes de publicar, se aplicável.
