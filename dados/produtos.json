@@ -1,0 +1,122 @@
+[
+  {
+    "id": "calcado",
+    "nome": "Calçado de segurança",
+    "categoria": "Calçados de segurança",
+    "referencia": "DEMO-001",
+    "unidade": "par",
+    "marca": "",
+    "variacoes": [
+      "Confirmar com atendimento"
+    ],
+    "demonstrativo": true,
+    "ca": null,
+    "material": null,
+    "descricao": "Exemplo de estrutura de catálogo. Modelo, fabricante, especificações e disponibilidade ainda precisam ser cadastrados."
+  },
+  {
+    "id": "luva",
+    "nome": "Luva de proteção",
+    "categoria": "Luvas de proteção",
+    "referencia": "DEMO-002",
+    "unidade": "par",
+    "marca": "",
+    "variacoes": [
+      "Confirmar com atendimento"
+    ],
+    "demonstrativo": true,
+    "ca": null,
+    "material": null,
+    "descricao": "Exemplo de estrutura de catálogo. Modelo, fabricante, especificações e disponibilidade ainda precisam ser cadastrados."
+  },
+  {
+    "id": "respirador",
+    "nome": "Respirador",
+    "categoria": "Proteção respiratória",
+    "referencia": "DEMO-003",
+    "unidade": "unidade",
+    "marca": "",
+    "variacoes": [
+      "Confirmar com atendimento"
+    ],
+    "demonstrativo": true,
+    "ca": null,
+    "material": null,
+    "descricao": "Exemplo de estrutura de catálogo. Modelo, fabricante, especificações e disponibilidade ainda precisam ser cadastrados."
+  },
+  {
+    "id": "auditiva",
+    "nome": "Protetor auditivo",
+    "categoria": "Proteção auditiva",
+    "referencia": "DEMO-004",
+    "unidade": "unidade",
+    "marca": "",
+    "variacoes": [
+      "Confirmar com atendimento"
+    ],
+    "demonstrativo": true,
+    "ca": null,
+    "material": null,
+    "descricao": "Exemplo de estrutura de catálogo. Modelo, fabricante, especificações e disponibilidade ainda precisam ser cadastrados."
+  },
+  {
+    "id": "oculos",
+    "nome": "Óculos de proteção",
+    "categoria": "Óculos e proteção facial",
+    "referencia": "DEMO-005",
+    "unidade": "unidade",
+    "marca": "",
+    "variacoes": [
+      "Confirmar com atendimento"
+    ],
+    "demonstrativo": true,
+    "ca": null,
+    "material": null,
+    "descricao": "Exemplo de estrutura de catálogo. Modelo, fabricante, especificações e disponibilidade ainda precisam ser cadastrados."
+  },
+  {
+    "id": "capacete",
+    "nome": "Capacete de segurança",
+    "categoria": "Capacetes",
+    "referencia": "DEMO-006",
+    "unidade": "unidade",
+    "marca": "",
+    "variacoes": [
+      "Confirmar com atendimento"
+    ],
+    "demonstrativo": true,
+    "ca": null,
+    "material": null,
+    "descricao": "Exemplo de estrutura de catálogo. Modelo, fabricante, especificações e disponibilidade ainda precisam ser cadastrados."
+  },
+  {
+    "id": "vestimenta",
+    "nome": "Vestimenta de proteção",
+    "categoria": "Vestimentas de proteção",
+    "referencia": "DEMO-007",
+    "unidade": "unidade",
+    "marca": "",
+    "variacoes": [
+      "Confirmar com atendimento"
+    ],
+    "demonstrativo": true,
+    "ca": null,
+    "material": null,
+    "descricao": "Exemplo de estrutura de catálogo. Modelo, fabricante, especificações e disponibilidade ainda precisam ser cadastrados."
+  },
+  {
+    "id": "altura",
+    "nome": "Cinturão para trabalho em altura",
+    "categoria": "Trabalho em altura",
+    "referencia": "DEMO-008",
+    "unidade": "unidade",
+    "marca": "",
+    "variacoes": [
+      "Confirmar com atendimento"
+    ],
+    "demonstrativo": true,
+    "ca": null,
+    "material": null,
+    "descricao": "Exemplo de estrutura de catálogo. Modelo, fabricante, especificações e disponibilidade ainda precisam ser cadastrados."
+  }
+]
