@@ -1,27 +1,19 @@
-# Changelog
+# CHANGELOG
 
-## [2026-11-02] — Versão 0.1.0
+## [2026-11-09] — Versão 0.1.4
 ### Adicionado
-- index.html: primeira página institucional/comercial responsiva com navegação por seções.
-- Catálogo demonstrativo com oito exemplos, busca, filtros e detalhes.
-- Lista de orçamento com quantidades, remoção, revisão e integração configurável com WhatsApp.
-- Páginas HTML próprias em produtos/ para os oito exemplos.
-- img/: logo recortado, original preservado e ilustrações SVG próprias.
-- dados/produtos.json e js/config.js.
-- README.md, DECISOES-DO-PROJETO.md e registro em versoes/.
-- robots.txt e noindex para reduzir exposição em buscadores durante a revisão.
+- 26 novos produtos no catálogo: máscara PFF2, botas, botinas, protetores auditivos, abafador, óculos, protetor facial, luvas, aventais, blusão, colete, mangote, perneira, toucas, cinta ergométrica e palmilha.
+- Campo `imagem` nos produtos, com fotos representativas para calçados, luvas e proteção auditiva.
 ### Alterado
-- Nenhum código anterior foi identificado ou substituído. A captura do logo foi recortada em uma cópia.
+- `dados/produtos.json` atualizado com os novos itens.
+- `index.html` deve receber os mesmos itens no `window.CATALOG` para exibição no catálogo.
 ### Motivo
-- Criar primeira versão navegável para validar identidade visual e fluxo comercial sem inventar dados.
+- Ampliar o catálogo de EPIs disponíveis para consulta e orçamento.
 ### Impacto
-- Apenas arquivos entregues. Não salva no repositório do projeto nem publica na hospedagem.
-- Contatos e dados técnicos pendentes; orçamento é demonstrativo e envio fica bloqueado sem número real.
-### Testes e publicação
-- Verificações estruturais automatizadas no momento da geração; testes reais de navegador pendentes.
-- Seguir checklist e bloqueios do README.md antes de publicar.
-### Reversão
-- Nenhum site publicado foi modificado. Em alterações futuras, restaurar backup anterior.
+- Aumenta o número de produtos exibidos no site; fotos provisórias permanecem nas categorias sem imagem própria.
 ### Próximos passos
-- Confirmar dados da empresa, produtos, variações, fotos, domínio e condições comerciais.
-- Revisar privacidade, acessibilidade e SEO com dados reais.
+- Substituir imagens provisórias por fotos reais de cada produto em `/img/`.
+- Confirmar marcas, CA, tamanhos, referências e disponibilidade.
+### Teste
+- Abrir `index.html`, buscar por “bota”, “luva”, “protetor auditivo”, “avental” e “touca”.
+- Conferir se os 26 novos produtos aparecem, abrem o detalhe e adicionam ao orçamento.
