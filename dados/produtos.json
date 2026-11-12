@@ -6,12 +6,15 @@
     "referencia": "ABE-001",
     "unidade": "unidade",
     "marca": "",
-    "variacoes": ["Confirmar com atendimento"],
+    "variacoes": [
+      "Confirmar com atendimento"
+    ],
     "demonstrativo": true,
     "ca": null,
     "material": null,
-    "imagem": "img/respirador.svg",
-    "descricao": "Máscara de proteção respiratória PFF2 sem válvula."
+    "imagem": "https://b2bnaweb.vtexassets.com/arquivos/ids/9378811-800-auto?aspect=true&height=auto&v=638156974389600000&width=800",
+    "descricao": "Máscara de proteção respiratória PFF2 sem válvula.",
+    "svg": "img/respirador.svg"
   },
   {
     "id": "bota-nobuck-marrom",
@@ -20,26 +23,32 @@
     "referencia": "ABE-002",
     "unidade": "par",
     "marca": "",
-    "variacoes": ["Confirmar numeração e modelo"],
+    "variacoes": [
+      "Confirmar numeração e modelo"
+    ],
     "demonstrativo": true,
     "ca": null,
     "material": "Nobuck",
     "imagem": "https://st.perplexity.ai/estatic/0b226c450798410ac541646c86ec31afd840e5beab817a5d84fa821e7db61981ec84c3b4a3f072a7a2e1899c9fb06c6e1250728afcacbde259a32627a741356945845a391be777f7655a70d5785cfd1ff5878054073d7293c14899ec7361ddd03f8f63d38133d1102ff70ed3d77904f3",
-    "descricao": "Bota de segurança em nobuck na cor marrom."
+    "descricao": "Bota de segurança em nobuck na cor marrom.",
+    "svg": "https://st.perplexity.ai/estatic/0b226c450798410ac541646c86ec31afd840e5beab817a5d84fa821e7db61981ec84c3b4a3f072a7a2e1899c9fb06c6e1250728afcacbde259a32627a741356945845a391be777f7655a70d5785cfd1ff5878054073d7293c14899ec7361ddd03f8f63d38133d1102ff70ed3d77904f3"
   },
   {
     "id": "bota-bico-aco",
-    "nome": "Bota com bico de aço",
+    "nome": "Bota bico aço",
     "categoria": "Calçados de segurança",
     "referencia": "ABE-003",
     "unidade": "par",
     "marca": "",
-    "variacoes": ["Confirmar numeração e modelo"],
+    "variacoes": [
+      "Confirmar numeração e modelo"
+    ],
     "demonstrativo": true,
     "ca": null,
     "material": null,
     "imagem": "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/f2b57388-5c1c-567c-b045-1efa77e7d52d/d3e8a7e1-135a-53c3-9479-c6fa3358e192.jpg",
-    "descricao": "Bota de segurança com bico de aço."
+    "descricao": "Bota de segurança com bico de aço.",
+    "svg": "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/f2b57388-5c1c-567c-b045-1efa77e7d52d/d3e8a7e1-135a-53c3-9479-c6fa3358e192.jpg"
   },
   {
     "id": "bota-sem-bico",
@@ -48,12 +57,15 @@
     "referencia": "ABE-004",
     "unidade": "par",
     "marca": "",
-    "variacoes": ["Confirmar numeração e modelo"],
+    "variacoes": [
+      "Confirmar numeração e modelo"
+    ],
     "demonstrativo": true,
     "ca": null,
     "material": null,
     "imagem": "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/e682b2cf-fb87-56af-b759-61fa575d103c/d4ee9d32-65aa-5411-8f56-9801f104fb3e.jpg",
-    "descricao": "Bota de segurança sem bico de aço."
+    "descricao": "Bota de segurança sem bico de aço.",
+    "svg": "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/e682b2cf-fb87-56af-b759-61fa575d103c/d4ee9d32-65aa-5411-8f56-9801f104fb3e.jpg"
   },
   {
     "id": "bota-nobuck-preta",
@@ -62,54 +74,32 @@
     "referencia": "ABE-005",
     "unidade": "par",
     "marca": "",
-    "variacoes": ["Confirmar numeração e modelo"],
+    "variacoes": [
+      "Confirmar numeração e modelo"
+    ],
     "demonstrativo": true,
     "ca": null,
     "material": "Nobuck",
     "imagem": "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/40c2edd5-5c4a-5ca3-b91e-141e6412ce90/16bc6ebc-a78f-5648-b076-22b64e14ed26.jpg",
-    "descricao": "Bota de segurança em nobuck na cor preta."
+    "descricao": "Bota de segurança em nobuck na cor preta.",
+    "svg": "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/40c2edd5-5c4a-5ca3-b91e-141e6412ce90/16bc6ebc-a78f-5648-b076-22b64e14ed26.jpg"
   },
   {
     "id": "botina-bico-aco",
-    "nome": "Botina com bico de aço",
+    "nome": "Botina com bico aço",
     "categoria": "Calçados de segurança",
     "referencia": "ABE-006",
     "unidade": "par",
     "marca": "",
-    "variacoes": ["Confirmar numeração e modelo"],
+    "variacoes": [
+      "Confirmar numeração e modelo"
+    ],
     "demonstrativo": true,
     "ca": null,
     "material": null,
     "imagem": "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/f2b57388-5c1c-567c-b045-1efa77e7d52d/d3e8a7e1-135a-53c3-9479-c6fa3358e192.jpg",
-    "descricao": "Botina de segurança com bico de aço."
-  },
-  {
-    "id": "bota-pvc",
-    "nome": "Bota PVC",
-    "categoria": "Calçados de segurança",
-    "referencia": "ABE-007",
-    "unidade": "par",
-    "marca": "",
-    "variacoes": ["Confirmar numeração e modelo"],
-    "demonstrativo": true,
-    "ca": null,
-    "material": "PVC",
-    "imagem": "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/e682b2cf-fb87-56af-b759-61fa575d103c/d4ee9d32-65aa-5411-8f56-9801f104fb3e.jpg",
-    "descricao": "Bota de segurança em PVC."
-  },
-  {
-    "id": "bota-flex-elastico-preta-bico-pvc",
-    "nome": "Bota flex elástico preta bico PVC",
-    "categoria": "Calçados de segurança",
-    "referencia": "ABE-008",
-    "unidade": "par",
-    "marca": "",
-    "variacoes": ["Confirmar numeração e modelo"],
-    "demonstrativo": true,
-    "ca": null,
-    "material": "PVC",
-    "imagem": "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/40c2edd5-5c4a-5ca3-b91e-141e6412ce90/16bc6ebc-a78f-5648-b076-22b64e14ed26.jpg",
-    "descricao": "Bota flexível elástica preta com bico de PVC."
+    "descricao": "Botina de segurança com bico de aço.",
+    "svg": "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/f2b57388-5c1c-567c-b045-1efa77e7d52d/d3e8a7e1-135a-53c3-9479-c6fa3358e192.jpg"
   },
   {
     "id": "protetor-auditivo-com-cordao",
@@ -118,26 +108,15 @@
     "referencia": "ABE-009",
     "unidade": "unidade",
     "marca": "",
-    "variacoes": ["Confirmar com atendimento"],
+    "variacoes": [
+      "Confirmar com atendimento"
+    ],
     "demonstrativo": true,
     "ca": null,
     "material": null,
     "imagem": "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/f1fa7d03-39a8-5cf2-9e09-9c5b2e96cb8c/16bc6ebc-a78f-5648-b076-22b64e14ed26.jpg",
-    "descricao": "Protetor auditivo tipo plug com cordão."
-  },
-  {
-    "id": "abafador-de-ruidos",
-    "nome": "Abafador de ruídos",
-    "categoria": "Proteção auditiva",
-    "referencia": "ABE-010",
-    "unidade": "unidade",
-    "marca": "",
-    "variacoes": ["Confirmar com atendimento"],
-    "demonstrativo": true,
-    "ca": null,
-    "material": null,
-    "imagem": "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/aed3adcb-d9f1-50bc-b013-c8e92a60ee65/c0b325d6-e888-5b82-943a-1dd7506898fd.jpg",
-    "descricao": "Abafador de ruídos para proteção auditiva."
+    "descricao": "Protetor auditivo tipo plug com cordão.",
+    "svg": "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/f1fa7d03-39a8-5cf2-9e09-9c5b2e96cb8c/16bc6ebc-a78f-5648-b076-22b64e14ed26.jpg"
   },
   {
     "id": "oculos-ipanema",
@@ -146,26 +125,15 @@
     "referencia": "ABE-011",
     "unidade": "unidade",
     "marca": "",
-    "variacoes": ["Confirmar com atendimento"],
+    "variacoes": [
+      "Confirmar com atendimento"
+    ],
     "demonstrativo": true,
     "ca": null,
     "material": null,
     "imagem": "img/oculos.svg",
-    "descricao": "Óculos de proteção Ipanema."
-  },
-  {
-    "id": "protetor-facial-incolor-confort",
-    "nome": "Protetor facial incolor Confort",
-    "categoria": "Óculos e proteção facial",
-    "referencia": "ABE-012",
-    "unidade": "unidade",
-    "marca": "",
-    "variacoes": ["Confirmar com atendimento"],
-    "demonstrativo": true,
-    "ca": null,
-    "material": null,
-    "imagem": "img/oculos.svg",
-    "descricao": "Protetor facial incolor modelo Confort."
+    "descricao": "Óculos de proteção Ipanema.",
+    "svg": "img/oculos.svg"
   },
   {
     "id": "luva-resistente-corte",
@@ -174,68 +142,66 @@
     "referencia": "ABE-013",
     "unidade": "par",
     "marca": "",
-    "variacoes": ["Confirmar numeração e modelo"],
+    "variacoes": [
+      "Confirmar numeração e modelo"
+    ],
     "demonstrativo": true,
     "ca": null,
     "material": null,
     "imagem": "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/30a2d414-bde4-5a80-851e-1839c290be42/d504ba72-4c38-5e59-bd19-06a17bd782ae.jpg",
-    "descricao": "Luva de proteção resistente a corte."
+    "descricao": "Luva de proteção resistente a corte.",
+    "svg": "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/30a2d414-bde4-5a80-851e-1839c290be42/d504ba72-4c38-5e59-bd19-06a17bd782ae.jpg"
   },
   {
-    "id": "luva-tricotada-pigmento",
-    "nome": "Luva tricotada com pigmento — luva de pedreiro",
-    "categoria": "Luvas de proteção",
-    "referencia": "ABE-014",
+    "id": "bota-pvc",
+    "nome": "Bota PVC",
+    "categoria": "Calçados de segurança",
+    "referencia": "ABE-007",
     "unidade": "par",
     "marca": "",
-    "variacoes": ["Confirmar numeração e modelo"],
+    "variacoes": [
+      "Confirmar numeração e modelo"
+    ],
     "demonstrativo": true,
     "ca": null,
-    "material": "Tricotada com pigmento",
-    "imagem": "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/c35b9dfa-c11a-58db-9ec9-2435b044b686/16bc6ebc-a78f-5648-b076-22b64e14ed26.jpg",
-    "descricao": "Luva tricotada com pigmento, indicada para uso em construção civil."
+    "material": "PVC",
+    "imagem": "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/e682b2cf-fb87-56af-b759-61fa575d103c/d4ee9d32-65aa-5411-8f56-9801f104fb3e.jpg",
+    "descricao": "Bota de segurança em PVC.",
+    "svg": "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/e682b2cf-fb87-56af-b759-61fa575d103c/d4ee9d32-65aa-5411-8f56-9801f104fb3e.jpg"
   },
   {
-    "id": "luva-vaqueta",
-    "nome": "Luva vaqueta",
-    "categoria": "Luvas de proteção",
-    "referencia": "ABE-015",
-    "unidade": "par",
+    "id": "abafador-de-ruidos",
+    "nome": "Abafador de ruídos",
+    "categoria": "Proteção auditiva",
+    "referencia": "ABE-010",
+    "unidade": "unidade",
     "marca": "",
-    "variacoes": ["Confirmar numeração e modelo"],
+    "variacoes": [
+      "Confirmar com atendimento"
+    ],
     "demonstrativo": true,
     "ca": null,
-    "material": "Vaqueta",
-    "imagem": "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/30a2d414-bde4-5a80-851e-1839c290be42/d504ba72-4c38-5e59-bd19-06a17bd782ae.jpg",
-    "descricao": "Luva de proteção em vaqueta."
-  },
-  {
-    "id": "luva-mista-raspa",
-    "nome": "Luva mista raspa",
-    "categoria": "Luvas de proteção",
-    "referencia": "ABE-016",
-    "unidade": "par",
-    "marca": "",
-    "variacoes": ["Confirmar numeração e modelo"],
-    "demonstrativo": true,
-    "ca": null,
-    "material": "Mista com raspa",
-    "imagem": "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/c35b9dfa-c11a-58db-9ec9-2435b044b686/16bc6ebc-a78f-5648-b076-22b64e14ed26.jpg",
-    "descricao": "Luva mista com raspa para proteção das mãos."
+    "material": null,
+    "imagem": "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/aed3adcb-d9f1-50bc-b013-c8e92a60ee65/c0b325d6-e888-5b82-943a-1dd7506898fd.jpg",
+    "descricao": "Abafador de ruídos para proteção auditiva.",
+    "svg": "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/aed3adcb-d9f1-50bc-b013-c8e92a60ee65/c0b325d6-e888-5b82-943a-1dd7506898fd.jpg"
   },
   {
     "id": "avental-raspa",
-    "nome": "Avental raspa",
+    "nome": "Avental Raspa",
     "categoria": "Vestimentas de proteção",
     "referencia": "ABE-017",
     "unidade": "unidade",
     "marca": "",
-    "variacoes": ["Confirmar tamanho e modelo"],
+    "variacoes": [
+      "Confirmar tamanho e modelo"
+    ],
     "demonstrativo": true,
     "ca": null,
     "material": "Raspa",
     "imagem": "img/vestimenta.svg",
-    "descricao": "Avental de proteção em raspa."
+    "descricao": "Avental de proteção em raspa.",
+    "svg": "img/vestimenta.svg"
   },
   {
     "id": "avental-trevira-kp1000",
@@ -244,110 +210,32 @@
     "referencia": "ABE-018",
     "unidade": "unidade",
     "marca": "",
-    "variacoes": ["Confirmar tamanho e modelo"],
+    "variacoes": [
+      "Confirmar tamanho e modelo"
+    ],
     "demonstrativo": true,
     "ca": null,
     "material": "Trevira",
     "imagem": "img/vestimenta.svg",
-    "descricao": "Avental Trevira KP1000 para proteção em solda e serviços industriais."
+    "descricao": "Avental Trevira KP1000 para proteção em solda e serviços industriais.",
+    "svg": "img/vestimenta.svg"
   },
   {
     "id": "blusao-raspa",
-    "nome": "Blusão raspa",
+    "nome": "Blusão Raspa",
     "categoria": "Vestimentas de proteção",
     "referencia": "ABE-019",
     "unidade": "unidade",
     "marca": "",
-    "variacoes": ["Confirmar tamanho e modelo"],
+    "variacoes": [
+      "Confirmar tamanho e modelo"
+    ],
     "demonstrativo": true,
     "ca": null,
     "material": "Raspa",
     "imagem": "img/vestimenta.svg",
-    "descricao": "Blusão de proteção em raspa."
-  },
-  {
-    "id": "colete-refletivo-pvc",
-    "nome": "Colete refletivo PVC",
-    "categoria": "Vestimentas de proteção",
-    "referencia": "ABE-020",
-    "unidade": "unidade",
-    "marca": "",
-    "variacoes": ["Confirmar tamanho e modelo"],
-    "demonstrativo": true,
-    "ca": null,
-    "material": "PVC",
-    "imagem": "img/vestimenta.svg",
-    "descricao": "Colete refletivo em PVC para alta visibilidade."
-  },
-  {
-    "id": "mangote-raspa",
-    "nome": "Mangote raspa",
-    "categoria": "Vestimentas de proteção",
-    "referencia": "ABE-021",
-    "unidade": "unidade",
-    "marca": "",
-    "variacoes": ["Confirmar tamanho e modelo"],
-    "demonstrativo": true,
-    "ca": null,
-    "material": "Raspa",
-    "imagem": "img/vestimenta.svg",
-    "descricao": "Mangote de proteção em raspa."
-  },
-  {
-    "id": "perneira-raspa",
-    "nome": "Perneira raspa",
-    "categoria": "Vestimentas de proteção",
-    "referencia": "ABE-022",
-    "unidade": "unidade",
-    "marca": "",
-    "variacoes": ["Confirmar tamanho e modelo"],
-    "demonstrativo": true,
-    "ca": null,
-    "material": "Raspa",
-    "imagem": "img/vestimenta.svg",
-    "descricao": "Perneira de proteção em raspa."
-  },
-  {
-    "id": "touca-elastico-brim",
-    "nome": "Touca com elástico brim",
-    "categoria": "Vestimentas de proteção",
-    "referencia": "ABE-023",
-    "unidade": "unidade",
-    "marca": "",
-    "variacoes": ["Confirmar com atendimento"],
-    "demonstrativo": true,
-    "ca": null,
-    "material": "Brim",
-    "imagem": "img/vestimenta.svg",
-    "descricao": "Touca de proteção em brim com elástico."
-  },
-  {
-    "id": "touca-simples-brim",
-    "nome": "Touca simples brim",
-    "categoria": "Vestimentas de proteção",
-    "referencia": "ABE-024",
-    "unidade": "unidade",
-    "marca": "",
-    "variacoes": ["Confirmar com atendimento"],
-    "demonstrativo": true,
-    "ca": null,
-    "material": "Brim",
-    "imagem": "img/vestimenta.svg",
-    "descricao": "Touca simples de proteção em brim."
-  },
-  {
-    "id": "touca-cordao-brim",
-    "nome": "Touca com cordão brim",
-    "categoria": "Vestimentas de proteção",
-    "referencia": "ABE-025",
-    "unidade": "unidade",
-    "marca": "",
-    "variacoes": ["Confirmar com atendimento"],
-    "demonstrativo": true,
-    "ca": null,
-    "material": "Brim",
-    "imagem": "img/vestimenta.svg",
-    "descricao": "Touca de proteção em brim com cordão."
+    "descricao": "Blusão de proteção em raspa.",
+    "svg": "img/vestimenta.svg"
   },
   {
     "id": "cinta-ergometrica-soft",
@@ -356,12 +244,66 @@
     "referencia": "ABE-026",
     "unidade": "unidade",
     "marca": "",
-    "variacoes": ["Confirmar tamanho e modelo"],
+    "variacoes": [
+      "Confirmar tamanho e modelo"
+    ],
     "demonstrativo": true,
     "ca": null,
     "material": null,
     "imagem": "img/vestimenta.svg",
-    "descricao": "Cinta ergométrica soft para apoio lombar."
+    "descricao": "Cinta ergométrica soft para apoio lombar.",
+    "svg": "img/vestimenta.svg"
+  },
+  {
+    "id": "colete-refletivo-pvc",
+    "nome": "Colete Refletivo PVC",
+    "categoria": "Vestimentas de proteção",
+    "referencia": "ABE-020",
+    "unidade": "unidade",
+    "marca": "",
+    "variacoes": [
+      "Confirmar tamanho e modelo"
+    ],
+    "demonstrativo": true,
+    "ca": null,
+    "material": "PVC",
+    "imagem": "img/vestimenta.svg",
+    "descricao": "Colete refletivo em PVC para alta visibilidade.",
+    "svg": "img/vestimenta.svg"
+  },
+  {
+    "id": "luva-tricotada-pigmento",
+    "nome": "Luva tricotada com pigmento (luva de pedreiro)",
+    "categoria": "Luvas de proteção",
+    "referencia": "ABE-014",
+    "unidade": "par",
+    "marca": "",
+    "variacoes": [
+      "Confirmar numeração e modelo"
+    ],
+    "demonstrativo": true,
+    "ca": null,
+    "material": "Tricotada com pigmento",
+    "imagem": "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/c35b9dfa-c11a-58db-9ec9-2435b044b686/16bc6ebc-a78f-5648-b076-22b64e14ed26.jpg",
+    "descricao": "Luva tricotada com pigmento, indicada para uso em construção civil.",
+    "svg": "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/c35b9dfa-c11a-58db-9ec9-2435b044b686/16bc6ebc-a78f-5648-b076-22b64e14ed26.jpg"
+  },
+  {
+    "id": "mangote-raspa",
+    "nome": "Mangote Raspa",
+    "categoria": "Vestimentas de proteção",
+    "referencia": "ABE-021",
+    "unidade": "unidade",
+    "marca": "",
+    "variacoes": [
+      "Confirmar tamanho e modelo"
+    ],
+    "demonstrativo": true,
+    "ca": null,
+    "material": "Raspa",
+    "imagem": "img/vestimenta.svg",
+    "descricao": "Mangote de proteção em raspa.",
+    "svg": "img/vestimenta.svg"
   },
   {
     "id": "palmilha-eva",
@@ -370,11 +312,150 @@
     "referencia": "ABE-027",
     "unidade": "par",
     "marca": "",
-    "variacoes": ["Confirmar numeração e modelo"],
+    "variacoes": [
+      "Confirmar numeração e modelo"
+    ],
     "demonstrativo": true,
     "ca": null,
     "material": "EVA",
     "imagem": "img/calcado.svg",
-    "descricao": "Palmilha de EVA para calçados."
+    "descricao": "Palmilha de EVA para calçados.",
+    "svg": "img/calcado.svg"
+  },
+  {
+    "id": "perneira-raspa",
+    "nome": "Perneira Raspa",
+    "categoria": "Vestimentas de proteção",
+    "referencia": "ABE-022",
+    "unidade": "unidade",
+    "marca": "",
+    "variacoes": [
+      "Confirmar tamanho e modelo"
+    ],
+    "demonstrativo": true,
+    "ca": null,
+    "material": "Raspa",
+    "imagem": "img/vestimenta.svg",
+    "descricao": "Perneira de proteção em raspa.",
+    "svg": "img/vestimenta.svg"
+  },
+  {
+    "id": "protetor-facial-incolor-confort",
+    "nome": "Protetor facial incolor confort",
+    "categoria": "Óculos e proteção facial",
+    "referencia": "ABE-012",
+    "unidade": "unidade",
+    "marca": "",
+    "variacoes": [
+      "Confirmar com atendimento"
+    ],
+    "demonstrativo": true,
+    "ca": null,
+    "material": null,
+    "imagem": "img/oculos.svg",
+    "descricao": "Protetor facial incolor modelo Confort.",
+    "svg": "img/oculos.svg"
+  },
+  {
+    "id": "touca-elastico-brim",
+    "nome": "Touca com elástico Brim",
+    "categoria": "Vestimentas de proteção",
+    "referencia": "ABE-023",
+    "unidade": "unidade",
+    "marca": "",
+    "variacoes": [
+      "Confirmar com atendimento"
+    ],
+    "demonstrativo": true,
+    "ca": null,
+    "material": "Brim",
+    "imagem": "img/vestimenta.svg",
+    "descricao": "Touca de proteção em brim com elástico.",
+    "svg": "img/vestimenta.svg"
+  },
+  {
+    "id": "touca-simples-brim",
+    "nome": "Touca simples Brim",
+    "categoria": "Vestimentas de proteção",
+    "referencia": "ABE-024",
+    "unidade": "unidade",
+    "marca": "",
+    "variacoes": [
+      "Confirmar com atendimento"
+    ],
+    "demonstrativo": true,
+    "ca": null,
+    "material": "Brim",
+    "imagem": "img/vestimenta.svg",
+    "descricao": "Touca simples de proteção em brim.",
+    "svg": "img/vestimenta.svg"
+  },
+  {
+    "id": "bota-flex-elastico-preta-bico-pvc",
+    "nome": "Bota flex elástico preta bico PVC",
+    "categoria": "Calçados de segurança",
+    "referencia": "ABE-008",
+    "unidade": "par",
+    "marca": "",
+    "variacoes": [
+      "Confirmar numeração e modelo"
+    ],
+    "demonstrativo": true,
+    "ca": null,
+    "material": "PVC",
+    "imagem": "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/40c2edd5-5c4a-5ca3-b91e-141e6412ce90/16bc6ebc-a78f-5648-b076-22b64e14ed26.jpg",
+    "descricao": "Bota flexível elástica preta com bico de PVC.",
+    "svg": "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/40c2edd5-5c4a-5ca3-b91e-141e6412ce90/16bc6ebc-a78f-5648-b076-22b64e14ed26.jpg"
+  },
+  {
+    "id": "touca-cordao-brim",
+    "nome": "Touca com cadarço Brim",
+    "categoria": "Vestimentas de proteção",
+    "referencia": "ABE-025",
+    "unidade": "unidade",
+    "marca": "",
+    "variacoes": [
+      "Confirmar com atendimento"
+    ],
+    "demonstrativo": true,
+    "ca": null,
+    "material": "Brim",
+    "imagem": "img/vestimenta.svg",
+    "descricao": "Touca de proteção em brim com cordão.",
+    "svg": "img/vestimenta.svg"
+  },
+  {
+    "id": "luva-vaqueta",
+    "nome": "Luva Vaqueta",
+    "categoria": "Luvas de proteção",
+    "referencia": "ABE-015",
+    "unidade": "par",
+    "marca": "",
+    "variacoes": [
+      "Confirmar numeração e modelo"
+    ],
+    "demonstrativo": true,
+    "ca": null,
+    "material": "Vaqueta",
+    "imagem": "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/30a2d414-bde4-5a80-851e-1839c290be42/d504ba72-4c38-5e59-bd19-06a17bd782ae.jpg",
+    "descricao": "Luva de proteção em vaqueta.",
+    "svg": "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/30a2d414-bde4-5a80-851e-1839c290be42/d504ba72-4c38-5e59-bd19-06a17bd782ae.jpg"
+  },
+  {
+    "id": "luva-mista-raspa",
+    "nome": "Luva Mista Raspa",
+    "categoria": "Luvas de proteção",
+    "referencia": "ABE-016",
+    "unidade": "par",
+    "marca": "",
+    "variacoes": [
+      "Confirmar numeração e modelo"
+    ],
+    "demonstrativo": true,
+    "ca": null,
+    "material": "Mista com raspa",
+    "imagem": "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/c35b9dfa-c11a-58db-9ec9-2435b044b686/16bc6ebc-a78f-5648-b076-22b64e14ed26.jpg",
+    "descricao": "Luva mista com raspa para proteção das mãos.",
+    "svg": "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/c35b9dfa-c11a-58db-9ec9-2435b044b686/16bc6ebc-a78f-5648-b076-22b64e14ed26.jpg"
   }
 ]
